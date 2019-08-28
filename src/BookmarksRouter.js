@@ -20,7 +20,7 @@ bookmarkRouter.route('/')
         bookmarks=bookmarkData
       } else {
         res
-          .status(400)
+          .status(200)
           .send('No bookmarks exist')
       }
     })
@@ -50,11 +50,11 @@ bookmarkRouter.route('/')
     rating,
     description: description ? xss(description) : null
   }
-  
+
   logger.info('made new book')
 
   BookmarksService.addBookmarks(req.app.get('db'), newBook)
-    .then(response => res.json(response))
+    .then(response => res.status(201).json(response))
     .then(logger.info('made new book'))
     .then(bookmarks.push(newBook))
     .catch(next);
