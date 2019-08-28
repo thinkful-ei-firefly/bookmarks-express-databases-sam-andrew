@@ -4,12 +4,16 @@ const bodyParser = express.json();
 const bookmarks = require('./data');
 const uuid = require('uuid/v4')
 
+const BookmarksService = require('./BookmarksService')
+
 const bookmarkRouter = express.Router();
 
 bookmarkRouter.route('/')
-.get((req, res) => {
-  logger.info('returning bookmarks')
-  res.json(bookmarks);
+.get((req, res, next) => {
+  logger.info('returning bookmarks');
+  BookmarksService.getBookmarks(req.app.get('db'))
+    .then(bookmarks => res.json(bookmarks))
+    .catch(next);
 })
 .post(bodyParser, (req, res) => {
   const { title, url } = req.body

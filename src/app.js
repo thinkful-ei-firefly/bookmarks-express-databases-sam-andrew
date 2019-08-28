@@ -6,8 +6,7 @@ const helmet = require('helmet');
 const { NODE_ENV } = require('./config');
 const authRouter = require('./API');
 const logger = require('./logger');
-const bookmarkRouter = require('./bookmarks');
-const BookmarksService = require('./BookmarksService')
+const BookmarksRouter = require('./BookmarksRouter');
 
 const app = express();
 
@@ -24,14 +23,7 @@ app.use(authRouter);
 //   res.send('Hello World!');
 // });
 
-// app.use('/bookmarks', bookmarkRouter);
-
-app.get('/bookmarks', (req, res, next) => {
-  BookmarksService.getBookmarks(req.app.get('db'))
-    .then(bookmarks => res.json(bookmarks))
-    .catch(next);
-})
-
+app.use('/bookmarks', BookmarksRouter);
 
 app.use(function errorHandler(error, req, res, next) {
   let response;
