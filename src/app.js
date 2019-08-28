@@ -19,10 +19,6 @@ app.use(helmet());
 app.use(cors());
 app.use(authRouter);
 
-// app.get('/', (req, res) => {
-//   res.send('Hello World!');
-// });
-
 app.use('/bookmarks', BookmarksRouter);
 
 app.use(function errorHandler(error, req, res, next) {

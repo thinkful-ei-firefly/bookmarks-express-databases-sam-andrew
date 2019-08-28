@@ -1,3 +1,176 @@
 
 {"message":"returning bookmarks","level":"info"}
 {"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"url or title not provided","level":"error"}
+{"message":"url or title not provided","level":"error"}
+{"message":"url or title not provided","level":"error"}
+{"message":"url or title not provided","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"url, title, or rating not provided","level":"error"}
+{"message":"url, title, or rating not provided","level":"error"}
+{"message":"url, title, or rating not provided","level":"error"}
+{"message":"url, title, or rating not provided","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 1","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with that id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 1","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with that id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"deleted item with id 2","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmark","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 4","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"deleted item with id 5","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"rating must be a number netween 1 and 5","level":"error"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 6","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"deleted item with id 8","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"deleted item with id 10","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"deleted item with id 12","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"deleted item with id 14","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"deleted item with id 7","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmark","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 9","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmark","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 11","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 13","level":"info"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"no book with provided id","level":"error"}
+{"message":"returning bookmark","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"made new book","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 0","level":"info"}
+{"message":"deleted item with id 2","level":"info"}
+{"message":"deleted item with id 17","level":"info"}
+{"message":"returning bookmarks","level":"info"}
+{"message":"deleted item with id 15","level":"info"}
+{"message":"deleted item with id 16","level":"info"}
+{"message":"deleted item with id 18","level":"info"}
+{"message":"returning bookmarks","level":"info"}

@@ -1,9 +1,42 @@
 const app = require('../src/app');
+const BookmarksService = require('../src/BookmarksService');
+const knex = require('knex');
+const testData = [
+  {
+    "title": "something",
+    "url": "something.com",
+    "rating": "4"
+  },
+  {
+    "title": "something",
+    "url": "something.com",
+    "rating": "2",
+    "description": "I describe this"
+  }
+]
 
-describe('App', () => {
-  it('GET / responds with 200 containing "Hello, world!"', () => {
-    return supertest(app)
-      .get('/')
-      .expect(200, 'Hello World!');
+
+
+describe('BookmarksService', () => {
+  describe('getBookmarks()', () => {
+    context('table is empty'), () => {
+
+    }
+
+    context('table has data'), () => {
+
+    }
+  })
+
+  describe('getBookmark()', () => {
+    
+  })
+
+  describe('addBookmarks()', () => {
+    
+  })
+
+  describe('deleteBookmarks()', () => {
+    
   })
 })
